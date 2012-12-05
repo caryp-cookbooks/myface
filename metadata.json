@@ -1,0 +1,32 @@
+{
+  "name": "myface",
+  "description": "Installs/Configures myface",
+  "long_description": "# app_php cookbook\n\n# Requirements\n\n# Usage\n\n# Attributes\n\n# Recipes\n\n# Author\n\nAuthor:: YOUR_NAME (<YOUR_EMAIL>)\n",
+  "maintainer": "YOUR_NAME",
+  "maintainer_email": "YOUR_EMAIL",
+  "license": "All rights reserved",
+  "platforms": {
+  },
+  "dependencies": {
+    "artifact": "~> 0.10.7",
+    "tomcat": "~> 0.11.0",
+    "database": "~> 1.3.4"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.0.1"
+}
