@@ -9,3 +9,6 @@ version          "0.0.1"
 depends "artifact", "~> 0.10.7"
 depends "tomcat", "~> 0.11.0"
 depends "database", "~> 1.3.4"
+
+recipe "myface::default", "installs tomcat app"
+recipe "myface::database", "installs mysql database for app"

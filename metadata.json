@@ -27,6 +27,8 @@
   "groupings": {
   },
   "recipes": {
+    "myface::default": "installs tomcat app",
+    "myface::database": "installs mysql database for app"
   },
   "version": "0.0.1"
 }
